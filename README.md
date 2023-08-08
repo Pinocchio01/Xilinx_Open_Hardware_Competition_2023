@@ -33,8 +33,8 @@ In this project, with the strategy of substituting large superconducting magnets
 ### Resource Usage
  
 <div align=center>
-    <img src="https://github.com/unizhibin/NMR-spectrometer/blob/main/AMD_Xilinx_Challenge_final/Documentation/Overlay%20Usage%20Percentage.PNG" width="400" alt="Image 1" style="float: left; margin-right: 30px;">
-    <img src="https://github.com/unizhibin/NMR-spectrometer/blob/main/AMD_Xilinx_Challenge_final/Documentation/Overlay%20Usage.PNG" width="400" alt="Image 2" style="float: left;">
+    <img src="https://github.com/unizhibin/Xilinx_Open_Hardware_2023/blob/main/Documentation/FPGA%20Usage/PYNQ_Z2/Overlay%20Usage%20Percentage.PNG" width="400" alt="Image 1" style="float: left; margin-right: 30px;">
+    <img src="https://github.com/unizhibin/Xilinx_Open_Hardware_2023/blob/main/Documentation/FPGA%20Usage/PYNQ_Z2/Overlay%20Usage.PNG" width="400" alt="Image 2" style="float: left;">
 </div align=center>
 <p align="center">Resource usage information on PYNQ ZU</p>
 
